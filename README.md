@@ -11,3 +11,7 @@ Acceptance criteria:
 4. Page and property list should be themeable.
 5. List should be filtered by ‘from’ - ‘to’ dates.
 (Date format accepted by API - Ymd. Both ‘from’ and ‘to’ parameter values are required)
+
+
+***
+Send applications to karolis.linkevicius@adapt.dk
